@@ -1,7 +1,11 @@
 <template>
   <nav>
-    <router-link to="/">Home</router-link> |
-    <router-link to="/about">About</router-link>
+    <!-- <router-link to="/">Home</router-link> | -->
+    <router-link to="/ejercicio-1">Ejercicio-1</router-link> |
+    <router-link to="/ejercicio-2">Ejercicio-2</router-link> |
+    <router-link to="/ejercicio-3">Ejercicio-3</router-link> |
+    <router-link to="/ejercicio-4">Ejercicio-4</router-link> |
+    <!-- <router-link to="/about">About</router-link> -->
   </nav>
   <router-view/>
 </template>
